@@ -5,7 +5,7 @@
 > Repositorio Curso de Teoria de Lenguajes UdeA 
 
 [**Practica #1**](#practica-1)
-| [**Practica #2**](#practica-2)
+| [**Practica #2**](#practica-1)
 
 <br/>
 <hr/>
@@ -18,6 +18,8 @@ cual mediante expresiones regulares y autómatas finitos convierte el código
 escrito en una lista ligada o array de tokens,estos tokens se componen de 
 la siguiente manera, cada uno de ellos posee un atributo que identifica el 
 tipo del token, y el Lexema o valor del token.
+
+[Live Demo analizador-lexico-udea.herokuapp.com/](http://analizador-lexico-udea.herokuapp.com/)
 
 ### Prerequisitos
 
