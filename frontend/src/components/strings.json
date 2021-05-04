@@ -1,0 +1,41 @@
+{
+    "enunciado": [
+        "Un compilador se compone de diferentes elementos, y en las próximas ",
+	    "prácticas se espera manejar dos módulos de gran importancia en el ",
+	    "proceso de compilación, el primero de estos corresponde a un Analizador ",
+        "léxico, el cual mediante expresiones regulares y autómatas finitos ",
+        "convierte el código escrito en una lista ligada o array de tokens,",
+        "estos tokens se componen de la siguiente manera, cada uno de ellos ",
+        "posee un atributo que identifica el tipo del token, y el Lexema o ",
+        " valor del token."
+    ],
+    "entregables":"Entregables:",
+    "numerales": {
+        "primero": {
+            "enunciado": "(40%) Un aplicativo Web o StandAlone:",
+            "opciones": {
+                "a": "Deberá estar en un repositorio como GitHub, GitLab o BitBucket.",
+                "b": "Deberá presentar el ejecutable del proyecto.",
+                "c": "Deberá permitir ingresar texto, correspondiente al código a analizar.",
+                "d": "Deberá permitir analizar el código, mostrando la lista de tokens."
+            }
+        },
+        "segundo": {
+            "enunciado": "(40%) Un documento en formato PDF donde se explique qué métodos usaron para procesar y analizar los tokens (Cuales fueron los autómatas finitos y expresiones regulares que implementaron, y una explicación de las mismas)"
+        },
+        "tercero": {
+            "enunciado": "(20%) Dos manuales en formato PDF, uno técnico donde hablen del lenguaje utilizado, los frameworks y herramientas implementados, y uno de usuario donde se explique paso a paso como ejecutar y utilizar el aplicativo."
+        }
+    },
+    "titulo": "Práctica 1 - Teoría de lenguajes y laboratorio - 2021-01",
+    "nombres": "Antonio González - Mateo Rivera",
+    "problema": "PROBLEMA",
+    "solucion": "SOLUCIÓN",
+    "secuencia":"Secuencia a analizar lexicográficamente",
+    "tokens": "Tokens reconocidos",
+    "tokenizar": "TOKENIZAR",
+    "code_editor_inicial": "//Inserte su codigo aqui...",
+    "cargando": "Cargando",
+    "error_cadena": "No se admiten secuencias vacias!",
+    "exito_cadena": "Secuencia aceptada!"
+}

@@ -1,0 +1,46 @@
+body{
+	background: url("../images/85207.jpg") no-repeat center center fixed;    
+	background-size: cover;
+	-moz-background-size: cover;
+	-webkit-background-size: cover;
+	-o-background-size: cover;
+
+}
+h1{
+    text-align: center;
+}
+
+#recuadro{
+	background-color: rgba(220, 220, 220, 0.8);	
+	margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 5%;
+}
+
+#recuadro h5{
+    margin-bottom: 5%;
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+}
+
+hr{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+#logo{
+    margin-bottom: 5%;
+    text-align: right;    
+}
+
+.enunciado{
+    font-weight: bold;
+}
+
+.espaciado_abajo{
+    margin-bottom: 50px;
+}
