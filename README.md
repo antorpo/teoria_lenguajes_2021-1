@@ -35,7 +35,7 @@ tipo del token, y el Lexema o valor del token.
    git clone https://github.com/antorpo/teoria_lenguajes_2021-1.git
    ```
    
-2. Ir del directorio de la practica #1
+2. Ir al directorio de la practica #1
    ```sh
    cd practica_01
    ```
@@ -50,7 +50,7 @@ tipo del token, y el Lexema o valor del token.
    python manage.py migrate
    ```
    
-5. Ir del directorio del front-end
+5. Ir al directorio del front-end
    ```sh
    cd frontend
    ```
